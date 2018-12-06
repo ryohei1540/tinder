@@ -15,5 +15,5 @@ TinderのAPIを利用し、データを取得
 [Tinderをpythonで分析してみた〜顔写真編〜](https://note.mu/ryohei55/n/n6a4ab9dae770)
 
 # vision_api.ipynb
-Google Cloud Vision APIを利用し、写真にラベル付をする。数個のラベルをピックアップし、海外の都市別に分析
+Google Cloud Vision APIを利用し、写真にラベル付をする。数個のラベルをピックアップし、海外の都市別に分析  
 [Tinderをpythonで分析してみた〜物体検出編〜](https://note.mu/ryohei55/n/n3acc5cd4ae42)
